@@ -1,4 +1,4 @@
 *.aux
 *.log
-*.synctec.gz
+*.synctex.gz
 *.pdf
